@@ -25,7 +25,7 @@ Before running the project, ensure you have Python installed on your system. You
 
    ```bash
    git clone <[https://github.com/sunilmakkar/data-projects.git]>
-   cd SPOTIFY_API_PROJECT
+   cd data-projects/Spotify_API_Project
 
 2. **Set up a virtual environment (optional but recommended):**
 
