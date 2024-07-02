@@ -24,7 +24,7 @@ Before running the project, ensure you have Python installed on your system. You
 1. **Clone the repository:**
 
    ```bash
-   git clone <https://developer.spotify.com/documentation/web-api>
+   git clone <[https://github.com/sunilmakkar/data-projects.git]>
    cd SPOTIFY_API_PROJECT
 
 2. **Set up a virtual environment (optional but recommended):**
