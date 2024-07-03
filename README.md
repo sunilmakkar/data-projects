@@ -32,10 +32,11 @@ Before running the project, ensure you have Python installed on your system. You
     python -m venv venv
 source venv/bin/activate   # On Windows use `venv\Scripts\activate`
 
+```
 SPOTIPY_CLIENT_ID=your_spotify_client_id
 SPOTIPY_CLIENT_SECRET=your_spotify_client_secret
 SPOTIPY_REDIRECT_URI=http://localhost:8888/callback
-
+```
 
 4. **Install dependencies:**
     pip install spotipy python-dotenv
