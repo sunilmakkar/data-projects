@@ -54,21 +54,18 @@ SPOTIPY_REDIRECT_URI=http://localhost:8888/callback
     python spotify-api-project.py
     This script will fetch the top 50 hip-hop artists from Spotify, sort them by popularity, retrieve their start year, and store the data in spotify_artists.db and spotify_artists_data.csv.
 
-
-### How to USE the project
-
     After running main.py, you will have two main files:
 
     - spotify_artists.db: SQLite database containing the top hip-hop artists data.
     - spotify_artists_data.csv: CSV file with the same data, suitable for further analysis or reporting.
 
 
-### How to USE the project
+### Testing
 
     Currently, this project does not include automated tests. Testing can be implemented by creating test scripts or unit tests to validate data fetching, processing, and exporting functionalities.
 
 
-### How to USE the project
+### License
 
     This project is licensed under the MIT License.
 
