@@ -1,0 +1,15 @@
+# API URLs
+api_base_url: https://accounts.spotify.com/api/token
+authentication_url: https://accounts.spotify.com/authorize
+
+# Redirect_uri
+redirect_uri:  http://localhost:8888/callback
+
+# Application Credentials
+spotify_client_id: your_client_id
+spotify_client_secret: your_client_secret
+
+# Database Credentials
+data_directory: /Users/sunilmakkar/Python-Projects/Spotify_API_Project/spotify-api-project.py
+output_directory: /Users/sunilmakkar/Python-Projects/Spotify_API_Project/spotify_artists_data.csv
+sqlite_db_path: /Users/sunilmakkar/Python-Projects/Spotify_API_Project/spotify_artitsts.db
